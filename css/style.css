@@ -1,0 +1,135 @@
+.style-2 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.875em;
+  font-style: italic;
+  margin-left: 12px;
+  margin-top: 215px;
+  height: 38px
+}
+.style-0 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  box-shadow: 6px 6px 0 0 #000;
+  display: flex;
+  margin-left: 112px;
+  margin-top: 160px;
+  width: 148px;
+  height: 56px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style-1 {
+  text-align: center;
+  font-size: .9375em;
+  height: 16px
+}
+.style-1,
+.style-5,
+.style-6,
+.style-7 {
+  font-family: BalsamiqSans,serif
+}
+.style-5 {
+  font-size: 1.6875em;
+  margin-left: 36px;
+  margin-top: 61px;
+  height: 33px
+}
+.style-6,
+.style-7 {
+  height: 29px
+}
+.style-6 {
+  text-align: center;
+  font-size: 1.125em;
+  margin-left: 20px;
+  margin-top: 131px
+}
+.style-7 {
+  font-size: 1.375em;
+  margin-left: 35px;
+  margin-top: 97px
+}
+.style-3 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  box-shadow: 6px 6px 0 0 #000;
+  display: flex;
+  margin-left: 111px;
+  margin-top: 19px;
+  width: 148px;
+  height: 56px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style-4 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: .9375em;
+  height: 16px
+}
+.style-10,
+.style-11,
+.style-12 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.6875em;
+  margin-left: 36px;
+  margin-top: 61px;
+  height: 33px
+}
+.style-11,
+.style-12 {
+  font-size: 1.375em;
+  margin-left: 21px;
+  margin-top: 79px;
+  height: 29px
+}
+.style-11 {
+  text-align: center;
+  font-size: 1.125em;
+  margin-left: 20px;
+  margin-top: 24px
+}
+.style-13,
+.style-8 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000
+}
+.style-13 {
+  font-family: BalsamiqSans,serif;
+  font-size: 1.1875em;
+  text-indent: 12px;
+  margin-left: 72px;
+  margin-top: 48px;
+  width: 227px;
+  height: 38px
+}
+.style-8 {
+  box-shadow: 6px 6px 0 0 #000;
+  display: flex;
+  margin-left: 111px;
+  margin-top: 59px;
+  width: 148px;
+  height: 56px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style-9 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: .9375em;
+  height: 16px
+}
